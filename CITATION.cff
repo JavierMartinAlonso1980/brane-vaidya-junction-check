@@ -3,12 +3,13 @@ message: "If you use this notebook, please cite it as below."
 title: "Brane in outgoing AdS5-Vaidya: symbolic and numerical cross-check of the junction closure"
 type: software
 version: 0.1.0
-date-released: "2026-10-XX"
+date-released: "2026-10-10"
 license: MIT
 authors:
   - family-names: "Martín Alonso"
     given-names: "Javier Manuel"
     orcid: "https://orcid.org/0009-0007-4051-6414"
+DOI: 10.5281/zenodo.23281263
 abstract: >-
   Independent verification notebook (sympy + numerical test) for the energy exchange of a Z2 FRW brane in
   outgoing AdS5-Vaidya: Einstein source, extrinsic curvature, both Israel equations, Codazzi projection and a dynamical consistency test.
