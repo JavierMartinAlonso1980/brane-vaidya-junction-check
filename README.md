@@ -1,6 +1,8 @@
 # Brane in outgoing AdS5–Vaidya: junction-closure cross-check
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23281263.svg)](https://doi.org/10.5281/zenodo.23281263)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 Independent verification notebook (symbolic + numerical). **It does not claim new physics.** The energy-exchange law
 for a Z2 FRW brane with bulk matter is known (e.g. Apostolopoulos & Tetradis, hep-th/0412246, Eq. 29). The notebook checks, with explicit
