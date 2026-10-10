@@ -27,7 +27,7 @@ Not established here: novelty vs. the braneworld literature; the physical origin
 horizon is white-hole-like; evaporation needs ingoing negative-energy flux near the horizon, Hiscock-type); asymmetric (non-Z2) branes; stability.
 
 ## Authorship and AI-assistance statement
-[Javier Manuel Martín Alonso] ran and checked this notebook on [2026-10-10] ([Python 3.14.2, numpy 2.5.3, sympy 1.14.0; OS: Windows 10]). It was drafted with the assistance of an AI assistant (Perplexity);
+Javier Manuel Martín Alonso ran and checked this notebook on 2026-10-10 (Python 3.14.2, numpy 2.5.3, sympy 1.14.0; OS: Windows 10). It was drafted with the assistance of an AI assistant (Perplexity);
 the author is responsible for the content.
 
 ## Cite
