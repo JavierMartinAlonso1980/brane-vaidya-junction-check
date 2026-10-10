@@ -1,5 +1,7 @@
 # Brane in outgoing AdS5–Vaidya: junction-closure cross-check
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23281263.svg)](https://doi.org/10.5281/zenodo.23281263)
+
 Independent verification notebook (symbolic + numerical). **It does not claim new physics.** The energy-exchange law
 for a Z2 FRW brane with bulk matter is known (e.g. Apostolopoulos & Tetradis, hep-th/0412246, Eq. 29). The notebook checks, with explicit
 conventions, that the Vaidya source, the brane embedding, both Israel equations and the Codazzi projection are mutually consistent, and that the
@@ -31,4 +33,4 @@ Javier Manuel Martín Alonso ran and checked this notebook on 2026-10-10 (Python
 the author is responsible for the content.
 
 ## Cite
-See `CITATION.cff`. DOI: 10.5281/zenodo.23281263
+See `CITATION.cff`
