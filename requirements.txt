@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.13
+sympy>=1.12
+jupyterlab>=4.0
+nbconvert>=7.0
+# Tested with: Python 3.12.8, numpy 1.26.4, scipy 1.13.1, sympy 1.14.0, nbconvert 7.16.6
