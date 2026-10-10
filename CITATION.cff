@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this notebook, please cite it as below."
+title: "Brane in outgoing AdS5-Vaidya: symbolic and numerical cross-check of the junction closure"
+type: software
+version: 0.1.0
+date-released: "2026-10-XX"
+license: MIT
+authors:
+  - family-names: "Martín Alonso"
+    given-names: "Javier Manuel"
+    orcid: "https://orcid.org/0009-0007-4051-6414"
+abstract: >-
+  Independent verification notebook (sympy + numerical test) for the energy exchange of a Z2 FRW brane in
+  outgoing AdS5-Vaidya: Einstein source, extrinsic curvature, both Israel equations, Codazzi projection and a dynamical consistency test.
+  It makes no claim of novelty relative to the braneworld literature with bulk radiation.
+keywords:
+  - braneworld cosmology
+  - Israel junction conditions
+  - AdS-Vaidya
+  - dark radiation
+  - verification
