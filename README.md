@@ -31,4 +31,4 @@ Javier Manuel Martín Alonso ran and checked this notebook on 2026-10-10 (Python
 the author is responsible for the content.
 
 ## Cite
-See `CITATION.cff`. DOI: [].
+See `CITATION.cff`. DOI: (https://doi.org/10.5281/zenodo.23281263).
